@@ -2,5 +2,6 @@ streamlit
 pandas
 numpy
 scikit-learn
-openpyxl   
-sqlite3-binary  
+openpyxl
+matplotlib
+seaborn
